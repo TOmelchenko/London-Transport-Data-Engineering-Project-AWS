@@ -845,5 +845,6 @@ Now continue to the next file:
 
 * [README 03 - Day 3 S3 Setup and Data Lake Layout](./README_03_Day3_S3_Setup_and_Data_Lake_Layout.md)
 
+[1]: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html "Installing or updating to the latest version of the AWS CLI"
 
 
