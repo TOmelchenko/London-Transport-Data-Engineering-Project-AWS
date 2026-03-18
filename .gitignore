@@ -10,3 +10,6 @@ _SUCCESS
 
 # MacOS
 .DS_Store
+
+# env variables
+.env

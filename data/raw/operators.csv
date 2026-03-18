@@ -1,221 +1,221 @@
-line_id,line_name,transport_mode,operator_id,vehicle_type_id,service_status,snapshot_date
-L001,Central,Underground,O001,VT01,Normal,2026-03-14
-L002,NORTHERN,Underground,O001,VT01,Reduced,2026-03-08
-L003,Victoria,Underground,O001,VT01,Planned Works,2026-03-15
-L004, Piccadilly ,Underground,O001,VT01,Normal,2026-03-12
-L005,Jubilee,Underground,O001,VT01,Reduced,2026-03-12
-L006,District,Underground,,VT01,Reduced,2026-03-09
-L007,Circle,Underground,O001,VT01,Minor Delays,2026-03-09
-L008,Bakerloo,Underground,O001,VT01,Planned Works,2026-03-09
-L009,DLR,Light Rail,O002,VT04,Minor Delays,2026-03-13
-L010,London Overground,Overground,O008,VT05,Planned Works,2026-03-06
-L011,Elizabeth line,Rail,O001,VT06,Reduced,2026-03-12
-L012,Route 24,Bus,O004,VT02,Minor Delays,2026-03-05
-L013,Route 38,Bus,O005,VT02,Minor Delays,2026-03-10
-L014,Route 73,Bus,O006,VT02,Planned Works,2026-03-05
-L015,Route 149,Bus,O007,VT02,Minor Delays,2026-03-08
-L016,Tramlink,Tram,O001,VT07,Reduced,2026-03-03
-L001,Central,Underground,O001,VT01,Normal,2026-03-09
-L002, Northern ,Underground,O001,VT01,Normal,2026-03-13
-L003, Victoria ,Underground,O001,VT01,Reduced,2026-03-02
-L004,Piccadilly, Underground ,O001,VT01,Minor Delays,2026-03-06
-L005,JUBILEE,Underground,O001,VT01,Minor Delays,2026-03-11
-L006,District, Underground ,O001,VT01,Minor Delays,2026-03-01
-L007, Circle ,Underground,O001,VT01,Planned Works,2026-03-01
-L008,Bakerloo,Underground,O001,VT01,Minor Delays,2026-03-13
-L009,DLR,Light Rail,O002,VT04,Normal,2026-03-09
-L010,London Overground,Overground,O008,VT05,Planned Works,2026-03-14
-L011,Elizabeth line,Rail,O001,VT06,Normal,2026-03-06
-L012,Route 24,Bus,O004,VT02,Reduced,2026-03-12
-L013,Route 38,Bus,O005,VT02,Normal,2026-03-11
-L014,Route 73,Bus,O006,VT02,Normal,2026-03-02
-L015,Route 149,Bus,O007,VT02,Minor Delays,2026-03-01
-L016,Tramlink,Tram,O001,VT07,Normal,2026-03-08
-L001,Central,Underground,O001,VT01,Planned Works,2026-03-10
-L002,Northern,Underground,O001,VT01,Normal,2026-03-04
-L003,Victoria,Underground,O001,VT01,Minor Delays,2026-03-05
-L004, Piccadilly ,UNDERGROUND,O001,VT01,Planned Works,2026-03-15
-L005,Jubilee,Underground,O001,VT01,Reduced,2026-03-15
-L006,District, Underground ,O001,VT01,Reduced,2026-03-10
-L007,Circle,Underground,O001,VT01,Minor Delays,2026-03-15
-L008,BAKERLOO,Underground,O001,VT01,Reduced,2026-03-10
-L009,DLR,Light Rail,O002,VT04,Planned Works,2026-03-07
-L010,London Overground,Overground,O008,VT05,Normal,2026-03-09
-L011,Elizabeth line,Rail,O001,VT06,Normal,2026-03-07
-L012,Route 24,BUS,O004,VT02,Minor Delays,2026-03-13
-L013,Route 38,Bus,O005,VT02,Minor Delays,2026-03-08
-L014,Route 73,Bus,O006,VT02,Minor Delays,2026-03-07
-L015,Route 149,Bus,O007,VT02,Minor Delays,2026-03-02
-L016,Tramlink,Tram,O001,VT07,Reduced,2026-03-12
-L001,CENTRAL,Underground,O001,VT01,Minor Delays,2026-03-12
-L002,Northern,Underground,O001,VT01,Minor Delays,2026-03-06
-L003,Victoria,UNDERGROUND,O001,VT01,Planned Works,2026-03-08
-L004,Piccadilly,Underground,O001,VT01,Reduced,2026-03-02
-L005,Jubilee,Underground,O001,VT01,Minor Delays,2026-03-02
-L006, District ,Underground,O001,VT01,Normal,2026-03-10
-L007,Circle,Underground,O001,VT01,Minor Delays,2026-03-01
-L008,Bakerloo,Underground,O001,VT01,Normal,2026-03-12
-L009,DLR,Light Rail,O002,VT04,Reduced,2026-03-10
-L010,London Overground,Overground,O008,VT05,Reduced,2026-03-03
-L011,Elizabeth line,Rail,O001,VT06,Reduced,2026-03-02
-L012,Route 24,Bus,O004,VT02,Planned Works,2026-03-08
-L013,Route 38,Bus,O005,VT02,Reduced,2026-03-12
-L014,Route 73,Bus,O006,VT02,Reduced,2026-03-08
-L015,route 149,Bus,O007,VT02,Minor Delays,2026-03-06
-L016,Tramlink,bus,O001,VT07,Planned Works,2026-03-08
-L001,Central,Underground,O001,VT01,Reduced,2026-03-05
-L002,Northern,Underground,O001,VT01,Reduced,2026-03-08
-L003,Victoria,Underground,O001,VT01,Planned Works,2026-03-05
-L004,Piccadilly,Underground,O001,VT01,Reduced,2026-03-06
-L005,Jubilee,Underground,O001,VT01,Minor Delays,2026-03-06
-L006,district,Underground,O001,VT01,Reduced,2026-03-11
-L007,Circle, Underground ,O001,VT01,Minor Delays,2026-03-12
-L008,Bakerloo,Underground,O001,VT01,Normal,2026-03-14
-L009,DLR,Light Rail,O002,VT04,Minor Delays,2026-03-03
-L010,London Overground,Overground,O008,VT05,Reduced,2026-03-12
-L011,Elizabeth line,Rail,O001,VT06,Minor Delays,2026-03-10
-L012,Route 24,Bus,O004,VT02,Minor Delays,2026-03-09
-L013, Route 38 ,Bus,O005,VT02,Normal,2026-03-02
-L014,Route 73,Bus,O006,VT02,Planned Works,2026-03-03
-L015,Route 149, Bus ,O007,VT02,Minor Delays,2026-03-13
-L016,Tramlink,Tram,O001,VT07,Normal,2026-03-01
-L001,CENTRAL,Underground,O001,VT01,Reduced,2026-03-08
-L002,Northern,Underground,O001,VT01,Reduced,2026-03-06
-L003,Victoria,Underground,O001,VT01,Planned Works,2026-03-07
-L004,Piccadilly,UNDERGROUND,O001,VT01,Reduced,2026-03-06
-L005,Jubilee,Underground,O001,VT01,Reduced,2026-03-09
-L006,District,Underground,O001,VT01,Minor Delays,2026-03-12
-L007,Circle,Underground,O001,VT01,Planned Works,2026-03-01
-L008,Bakerloo,underground,O001,VT01,Planned Works,2026-03-11
-L009,dlr,Light Rail,O002,VT04,Reduced,2026-03-09
-L010,London Overground,Overground,O008,VT05,Minor Delays,2026-03-08
-L011,Elizabeth line,Rail,O001,VT06,Reduced,2026-03-03
-L012,Route 24,Bus,O004,VT02,Normal,2026-03-12
-L013,Route 38,Bus,O005,VT02,Minor Delays,2026-03-07
-L014, Route 73 ,Bus,O006,VT02,Planned Works,2026-03-13
-L015,Route 149,Bus,O007,VT02,Normal,2026-03-13
-L016,Tramlink,Tram,O001,VT07,Planned Works,2026-03-04
-L001,Central,Underground,O001,VT01,Minor Delays,2026-03-09
-L002,Northern,Underground,O001,VT01,Minor Delays,2026-03-10
-L003,Victoria,underground,O001,VT01,Planned Works,2026-03-14
-L004,Piccadilly,Underground,O001,VT01,Planned Works,2026-03-15
-L005,Jubilee,UNDERGROUND,O001,VT01,Reduced,2026-03-06
-L006,district,Underground,O001,VT01,Reduced,2026-03-06
-L007,Circle,Underground,O001,VT01,Minor Delays,2026-03-10
-L008,Bakerloo,Underground,O001,VT01,Reduced,2026-03-08
-L009,DLR,Light Rail,O002,VT04,Reduced,2026-03-09
-L010,London Overground,Overground,O008,VT05,Reduced,2026-03-06
-L011,Elizabeth line,Rail,O001,VT06,Planned Works,2026-03-01
-L012,Route 24,Bus,O004,VT02,Minor Delays,2026-03-09
-L013,Route 38,Bus,O005,VT02,Minor Delays,2026-03-07
-L014,Route 73,Bus,O006,VT02,Reduced,2026-03-02
-L015,Route 149,Bus,O007,VT02,Reduced,2026-03-05
-L016, Tramlink ,Tram,O001,VT07,Planned Works,2026-03-03
-L001,Central,Underground,O001,VT01,Minor Delays,2026-03-09
-L002,Northern,Underground,O001,VT01,Planned Works,2026-03-13
-L003,Victoria,Underground,O001,VT01,Normal,2026-03-13
-L004,Piccadilly,Underground,O001,VT01,Minor Delays,2026-03-02
-L005,Jubilee,Underground,O001,VT01,Reduced,2026-03-05
-L006,District, Underground ,O001,VT01,Planned Works,2026-03-06
-L007,Circle,UNDERGROUND,O001,VT01,Normal,2026-03-13
-L008,Bakerloo,Underground,O001,VT01,Planned Works,2026-03-14
-L009,DLR,Light Rail,O002,VT04,Reduced,2026-03-10
-L010,London Overground,Overground,O008,VT05,Reduced,2026-03-13
-L011, Elizabeth line ,Rail,O001,VT06,Planned Works,2026-03-10
-L012,Route 24,Bus,O004,VT02,Planned Works,2026-03-05
-L013,Route 38,Bus,O005,VT02,Normal,2026-03-03
-L014,Route 73,Bus,O006,VT02,Normal,2026-03-05
-L015,Route 149,bus,O007,VT02,Reduced,2026-03-04
-L016,Tramlink,Tram,O001,VT07,Reduced,2026-03-13
-L001,Central,Underground,O001,VT01,Reduced,2026-03-10
-L002,Northern,Underground,O001,VT01,Minor Delays,2026-03-08
-L003,VICTORIA,Underground,O001,VT01,Normal,2026-03-07
-L004,Piccadilly,Underground,O001,VT01,Planned Works,2026-03-08
-L005,Jubilee,Underground,O001,VT01,Normal,2026-03-14
-L006,District,Underground,O001,VT01,Minor Delays,2026-03-11
-L007,Circle,Underground,O001,VT01,Normal,2026-03-13
-L008,Bakerloo,Underground,O001,VT01,Minor Delays,2026-03-14
-L009,DLR,Light Rail,O002,VT04,Planned Works,2026-03-06
-L010,London Overground,Overground,O008,VT05,Minor Delays,2026-03-13
-L011,Elizabeth line,Rail,O001,VT06,Normal,2026-03-01
-L012,ROUTE 24,Bus,O004,VT02,Minor Delays,2026-03-01
-L013,route 38,Bus,O005,VT02,Minor Delays,2026-03-08
-L014, Route 73 ,Bus,O006,VT02,Reduced,2026-03-12
-L015,Route 149,Bus,O007,VT02,Planned Works,2026-03-03
-L016,Tramlink,Tram,O001,VT07,Normal,2026-03-11
-L001,Central,UNDERGROUND,O001,VT01,Reduced,2026-03-01
-L002,Northern,Underground,O001,VT01,Reduced,2026-03-07
-L003,Victoria,Underground,O001,VT01,Normal,2026-03-04
-L004,Piccadilly,Underground,O001,VT01,Reduced,2026-03-09
-L005,Jubilee, Underground ,O001,VT01,Planned Works,2026-03-14
-L006,district,Underground,O001,VT01,Reduced,2026-03-08
-L007,CIRCLE,Underground,O001,VT01,Normal,2026-03-02
-L008,Bakerloo,Underground,O001,VT01,Reduced,2026-03-07
-L009,DLR,Light Rail,O002,VT04,Reduced,2026-03-11
-L010,London Overground,Overground,O008,VT05,Normal,2026-03-10
-L011,Elizabeth line,Rail,O001,VT06,Reduced,2026-03-11
-L012,Route 24,Bus,O004,VT02,Minor Delays,2026-03-14
-L013,Route 38,Bus,O005,VT02,Reduced,2026-03-13
-L014,route 73,Bus,O006,VT02,Planned Works,2026-03-07
-L015,Route 149,Bus,O007,VT02,Planned Works,2026-03-11
-L016,TRAMLINK,Tram,O001,VT07,Planned Works,2026-03-13
-L001,Central, Underground ,O001,VT01,Planned Works,2026-03-04
-L002,Northern,Underground,O001,VT01,Minor Delays,2026-03-05
-L003,Victoria,Underground,O001,VT01,Reduced,2026-03-08
-L004,Piccadilly,Underground,O001,VT01,Normal,2026-03-09
-L005,Jubilee, Underground ,O001,VT01,Planned Works,2026-03-15
-L006,District,Underground,O001,VT01,Minor Delays,2026-03-06
-L007,Circle,Underground,O001,VT01,Minor Delays,2026-03-13
-L008,BAKERLOO,Underground,O001,VT01,Normal,2026-03-05
-L009,DLR,Light Rail,O002,VT04,Minor Delays,2026-03-09
-L010,London Overground,Overground,O008,VT05,Minor Delays,2026-03-07
-L011,  Central  ,RAIL,O001,VT06,Reduced,2026-03-05
-L012,ROUTE 24,BUS,O004,VT02,Reduced,2026-03-13
-L013,Route 38,Bus,O005,VT02,Normal,2026-03-05
-L014,Route 73,Bus,O006,VT02,Reduced,2026-03-01
-L015,Route 149,Bus,O007,VT02,Normal,2026-03-08
-L016,Tramlink, Tram ,O001,VT07,Reduced,2026-03-02
-L001, Central ,Underground,O001,VT01,Normal,2026-03-03
-L002,Northern,Underground,O001,VT01,Planned Works,2026-03-03
-L003,Victoria,Underground,O001,VT01,Planned Works,2026-03-12
-L004,Piccadilly,Underground,O001,VT01,Normal,2026-03-06
-L005,Jubilee,Underground,O001,VT01,Normal,2026-03-05
-L006,District,Underground,O001,VT01,Normal,2026-03-08
-L007,Circle,Underground,O001,VT01,Minor Delays,2026-03-14
-L008,Bakerloo,Underground,O001,VT01,Planned Works,2026-03-13
-L009,dlr,Light Rail,O002,VT04,Normal,2026-03-04
-L010,London Overground, Overground ,O008,VT05,Normal,2026-03-04
-L011, Elizabeth line ,Rail,O001,VT06,Reduced,2026-03-03
-L012,Route 24,Bus,O004,VT02,Minor Delays,2026-03-04
-L013,Route 38,Bus,O005,VT02,Planned Works,2026-03-05
-L014,Route 73,Bus,O006,VT02,Normal,2026-03-09
-L015,Route 149, Bus ,O007,VT02,Reduced,2026-03-13
-L016,Tramlink, Tram ,O001,VT07,Minor Delays,2026-03-02
-L001,Central,Underground,O001,VT01,Planned Works,2026-03-06
-L002,NORTHERN,Underground,O001,VT01,Planned Works,2026-03-04
-L003,Victoria,Underground,O001,VT01,Reduced,2026-03-08
-L004,Piccadilly,Underground,O001,VT01,Reduced,2026-03-12
-L005,Jubilee,Underground,O001,VT01,Reduced,2026-03-03
-L006, District ,Underground,O001,VT01,Reduced,2026-03-09
-L007,Circle,Underground,O001,VT01,Normal,2026-03-06
-L008, Bakerloo ,Underground,O001,VT01,Planned Works,2026-03-02
-L009,DLR,Light Rail,O002,VT04,Minor Delays,2026-03-08
-L010,London Overground,Overground,O008,VT05,Reduced,2026-03-12
-L011,Elizabeth line, Rail ,O001,VT06,Reduced,2026-03-15
-L012,Route 24,Bus,O004,VT02,Planned Works,2026-03-08
-L013,Route 38,BUS,O005,VT02,Normal,2026-03-09
-L014,Route 73,Bus,O006,VT02,Normal,2026-03-10
-L015,Route 149,Bus,O007,VT02,Reduced,2026-03-04
-L016,Tramlink,Tram,O001,VT07,Minor Delays,2026-03-12
-L001,Central,Underground,O001,VT01,Minor Delays,2026-03-05
-L002,Northern,Underground,O001,VT01,Reduced,2026-03-13
-L003,Victoria,underground,O001,VT01,Normal,2026-03-03
-L004,Piccadilly,Underground,O001,VT01,Normal,2026-03-09
-L005,Jubilee,Underground,O001,VT01,Minor Delays,2026-03-05
-L006,District,Underground,O001,VT01,Normal,2026-03-03
-L007,Circle,Underground,O001,VT01,Normal,2026-03-04
-L008,Bakerloo,Underground,O001,VT01,Normal,2026-03-12
-L009,DLR,Light Rail,O002,VT04,Normal,2026-03-11
-L010,London Overground,Overground,O008,VT05,Reduced,2026-03-01
-L011,Elizabeth line,Rail,O001,VT06,Reduced,2026-03-02
-L012,Route 24,Bus,O004,VT02,Reduced,2026-03-02
+operator_id,operator_name,service_type,contract_region,status_flag,report_date
+O001,Transport for London,Public,West,Active,2026-03-03
+O002,Docklands Light Railway Ltd,Public-Private,West,Active,2026-03-05
+O003,ARRIVA RAIL LONDON,Concession,North,Active,2026-03-09
+O004,Abellio Bus London,Private,North,Active,2026-03-11
+O005,GO-AHEAD LONDON,Private,South,Active,2026-03-05
+O006,Metroline,Private,South,Active,2026-03-05
+O007,Stagecoach London,Private,East,Active,2026-03-08
+O008, London Overground Operations ,Concession,Multi-region,Active,2026-03-08
+O001,Transport for London,Public,West,Active,2026-03-11
+O002,Docklands Light Railway Ltd,Public-Private,South,Review,2026-03-01
+O003,Arriva Rail London,Concession,North,Active,2026-03-04
+O004,Abellio Bus London,Private,West,Review,2026-03-03
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-02
+O006,Metroline,Private,Multi-region,Active,2026-03-06
+O007,Stagecoach London,Private,Central,Review,2026-03-05
+O008,London Overground Operations,Concession,North,Active,2026-03-08
+O001,Transport for London,Public,Central,Active,2026-03-10
+O002,Docklands Light Railway Ltd,Public-Private,East,Review,2026-03-07
+O003,Arriva Rail London,Concession,East,Active,2026-03-01
+O004,Abellio Bus London,Private,Multi-region,Active,2026-03-01
+O005,Go-Ahead London,Private,West,Active,2026-03-01
+O006,Metroline,Private,Multi-region,Active,2026-03-04
+O007,Stagecoach London,Private,South,Active,2026-03-03
+O008,london overground operations,Concession,West,Active,2026-03-03
+O001,TRANSPORT FOR LONDON,Public,Central,Active,2026-03-05
+O002,Docklands Light Railway Ltd,Public-Private,West,Active,2026-03-07
+O003,Arriva Rail London,Concession,North,Active,2026-03-08
+O004,Abellio Bus London,Private,North,Active,2026-03-07
+O005, Go-Ahead London ,Private,North,Active,2026-03-04
+O006,Metroline,Private,West,Active,2026-03-02
+O007,Stagecoach London,Private,Multi-region,Active,2026-03-07
+O008,London Overground Operations,Concession,South,Active,2026-03-10
+O001,Transport for London,Public,Multi-region,Active,2026-03-11
+O002,Docklands Light Railway Ltd,Public-Private,Central,Active,2026-03-07
+O003,Arriva Rail London,Concession,Central,Active,2026-03-08
+O004,Abellio Bus London,Private,North,Active,2026-03-05
+O005,Go-Ahead London,Private,Central,Active,2026-03-10
+O006,Metroline,Private,North,Review,2026-03-02
+O007,Stagecoach London,Private,West,Active,2026-03-05
+O008,london overground operations,Concession,Central,Review,2026-03-04
+O001,Transport for London,Public,South,Active,2026-03-06
+O002,Docklands Light Railway Ltd,Public-Private,South,Active,2026-03-01
+O003,Arriva Rail London,Concession,North,Review,2026-03-06
+O004,Abellio Bus London,Private,Central,Active,2026-03-02
+O005,,Private,Multi-region,Review,2026-03-03
+O006,Metroline,Private,West,Active,2026-03-02
+O007,Stagecoach London,Private,Multi-region,Active,2026-03-08
+O008,London Overground Operations,Concession,South,Active,2026-03-08
+O001, Transport for London ,Public,North,Active,2026-03-05
+O002,Docklands Light Railway Ltd,Public-Private,Multi-region,Active,2026-03-07
+O003,Arriva Rail London,Concession,Central,Active,2026-03-01
+O004,Abellio Bus London,Private,Multi-region,Active,2026-03-06
+O005,Go-Ahead London,Private,East,Active,2026-03-02
+O006,Metroline,Private,South,Active,2026-03-02
+O007,Stagecoach London,Private,East,Active,2026-03-07
+O008,London Overground Operations,Concession,East,Review,2026-03-11
+O001,Transport for London,Public,North,Active,2026-03-03
+O002,Docklands Light Railway Ltd,Public-Private,Central,Active,2026-03-02
+O003,Arriva Rail London,Concession,West,Review,2026-03-10
+O004,Abellio Bus London,Private,North,Review,2026-03-06
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-08
+O006,Metroline,Private,Central,Review,2026-03-08
+O007, Stagecoach London ,Private,South,Active,2026-03-01
+O008,London Overground Operations,Concession,Multi-region,Active,2026-03-11
+O001,Transport for London,Public,West,Active,2026-03-07
+O002,Docklands Light Railway Ltd,Public-Private,North,Review,2026-03-06
+O003,Arriva Rail London,Concession,Multi-region,Review,2026-03-03
+O004,Abellio Bus London,Private,West,Active,2026-03-01
+O005,Go-Ahead London,Private,North,Review,2026-03-08
+O006,Metroline,Private,Central,Review,2026-03-06
+O007,Stagecoach London,Private,South,Active,2026-03-09
+O008,London Overground Operations,Concession,Multi-region,Review,2026-03-07
+O001,Transport for London,Public,Central,Review,2026-03-08
+O002,Docklands Light Railway Ltd,Public-Private,East,Active,2026-03-08
+O003,Arriva Rail London,Concession,Central,Review,2026-03-11
+O004, Abellio Bus London ,Private,East,Review,2026-03-01
+O005,Go-Ahead London,Private,Central,Active,2026-03-10
+O006,Metroline,Private,Multi-region,Active,2026-03-09
+O007,Stagecoach London,Private,Multi-region,Review,2026-03-06
+O008,London Overground Operations,Concession,Central,Active,2026-03-08
+O001,Transport for London,Public,West,Review,2026-03-11
+O002,Docklands Light Railway Ltd,Public-Private,East,Active,2026-03-02
+O003,Arriva Rail London,Concession,North,Active,2026-03-06
+O004,Abellio Bus London,Private,Multi-region,Active,2026-03-09
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-01
+O006,Metroline,Private,East,Active,2026-03-07
+O007,stagecoach london,Private,West,Active,2026-03-04
+O008,london overground operations,Concession,East,Active,2026-03-08
+O001,Transport for London,Public,North,Active,2026-03-02
+O002,Docklands Light Railway Ltd,Public-Private,Central,Active,2026-03-08
+O999,Arriva Rail London,Concession,West,Active,2026-03-08
+O004, Abellio Bus London ,Private,Multi-region,Active,2026-03-09
+O005,Go-Ahead London,Private,West,Review,2026-03-09
+O006,Metroline,Private,North,Active,2026-03-03
+O007,stagecoach london,Private,Multi-region,Active,2026-03-09
+O008,London Overground Operations,Concession,East,Active,2026-03-05
+O001,Transport for London,Public,South,Active,2026-03-08
+O002,Docklands Light Railway Ltd,Public-Private,North,Review,2026-03-10
+O003,Arriva Rail London,Concession,Multi-region,Active,2026-03-09
+O004,Abellio Bus London,Private,Multi-region,Active,2026-03-04
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-11
+O006,Metroline,Private,Multi-region,Active,2026-03-11
+O007,Stagecoach London,Private,North,Active,2026-03-02
+O008,London Overground Operations,Concession,West,Review,2026-03-10
+O001,Transport for London,Public,Multi-region,Review,2026-03-11
+O002,Docklands Light Railway Ltd,Public-Private,West,Active,2026-03-07
+O003,Arriva Rail London,Concession,West,Active,2026-03-01
+O004,Abellio Bus London,Private,Central,Active,2026-03-04
+O005,Go-Ahead London,Private,North,Active,2026-03-11
+O006,Metroline,Private,Central,Active,2026-03-04
+O007,Stagecoach London,Private,Central,Active,2026-03-08
+O008,london overground operations,Concession,Multi-region,Active,2026-03-11
+O001,Transport for London,Public,North,Active,2026-03-11
+O002, Docklands Light Railway Ltd ,Public-Private,East,Review,2026-03-07
+O003,Arriva Rail London,Concession,Multi-region,Active,2026-03-09
+O004, Abellio Bus London ,Private,Multi-region,Active,2026-03-04
+O005,Go-Ahead London,Private,East,Active,2026-03-11
+O006,Metroline,Private,Multi-region,Active,2026-03-10
+O007,Stagecoach London,Private,West,Active,2026-03-04
+O008,London Overground Operations,Concession,North,Active,2026-03-03
+O001,Transport for London,Public,Multi-region,Active,2026-03-07
+O002, Docklands Light Railway Ltd ,Public-Private,South,Active,2026-03-03
+O003,Arriva Rail London,Concession,South,Active,2026-03-06
+O004,Abellio Bus London,Private,North,Active,2026-03-03
+O005,Go-Ahead London,Private,West,Active,2026-03-11
+O006,Metroline,Private,Multi-region,Active,2026-03-08
+O007,Stagecoach London,Private,West,Active,2026-03-02
+O008,London Overground Operations,Concession,South,Active,2026-03-03
+O001,Transport for London,Public,West,Active,2026-03-07
+O002,Docklands Light Railway Ltd,Public-Private,East,Active,2026-03-06
+O003,Arriva Rail London,Concession,North,Active,2026-03-06
+O004,Abellio Bus London,Private,North,Review,2026-03-09
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-02
+O006,Metroline,Private,East,Active,2026-03-11
+O007,Stagecoach London,Private,West,Active,2026-03-01
+O008,London Overground Operations,Concession,South,Review,2026-03-02
+O001,Transport for London,Public,West,Active,2026-03-01
+O002,Docklands Light Railway Ltd,Public-Private,South,Review,2026-03-08
+O003, Arriva Rail London ,Concession,Multi-region,Active,2026-03-06
+O004,Abellio Bus London,Private,Central,Active,2026-03-09
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-04
+O006,Metroline,Private,North,Review,2026-03-02
+O007,Stagecoach London,Private,Multi-region,Review,2026-03-11
+O008,London Overground Operations,Concession,Central,Active,2026-03-01
+O001,Transport for London,Public,South,Active,2026-03-02
+O002,DOCKLANDS LIGHT RAILWAY LTD,Public-Private,North,Active,2026-03-09
+O003,ARRIVA RAIL LONDON,Concession,North,Active,2026-03-07
+O004,Abellio Bus London,Private,Multi-region,Review,2026-03-07
+O005,Go-Ahead London,Private,East,Active,2026-03-09
+O006, Metroline ,Private,Multi-region,Active,2026-03-10
+O007, Stagecoach London ,Private,Central,Active,2026-03-09
+O008,london overground operations,Concession,Multi-region,Active,2026-03-10
+O001,TRANSPORT FOR LONDON,Public,East,Review,2026-03-07
+O002,Docklands Light Railway Ltd,Public-Private,Central,Review,2026-03-03
+O003,Arriva Rail London,Concession,North,Review,2026-03-09
+O004,Abellio Bus London,Private,Multi-region,Active,2026-03-05
+O005,Go-Ahead London,Private,Multi-region,Active,2026-03-01
+O006,Metroline,Private,West,Active,2026-03-02
+O007, Stagecoach London ,Private,West,Review,2026-03-09
+O008,London Overground Operations,Concession,Central,Active,2026-03-04
+O001,Transport for London,Public,Multi-region,Active,2026-03-04
+O002,Docklands Light Railway Ltd,Public-Private,Multi-region,Active,2026-03-03
+O003,Arriva Rail London,Concession,West,Active,2026-03-04
+O004,abellio bus london,Private,Multi-region,Active,2026-03-09
+O005,Go-Ahead London,Private,West,Active,2026-03-05
+O006,Metroline,Private,South,Active,2026-03-04
+O007,Stagecoach London,Private,East,Active,2026-03-06
+O008,london overground operations,Concession,Multi-region,Active,2026-03-02
+O001,Transport for London,Public,Central,Active,2026-03-06
+O002,Docklands Light Railway Ltd,Public-Private,South,Active,2026-03-10
+O003,Arriva Rail London,Concession,West,Active,2026-03-06
+O004,Abellio Bus London,Private,North,Active,2026-03-06
+O005,Go-Ahead London,Private,North,Review,2026-03-05
+O006,Metroline,Private,North,Active,2026-03-08
+O007,Stagecoach London,Private,South,Active,2026-03-08
+O008,London Overground Operations,Concession,North,Active,2026-03-05
+O001,Transport for London,Public,North,Active,2026-03-05
+O002,Docklands Light Railway Ltd,Public-Private,Multi-region,Active,2026-03-02
+O003,Arriva Rail London,Concession,West,Active,2026-03-10
+O004,Abellio Bus London,Private,West,Active,2026-03-01
+O005,Go-Ahead London,Private,West,Review,2026-03-11
+O006,Metroline,Private,South,Review,2026-03-04
+O007,Stagecoach London,Private,West,Active,2026-03-03
+O008,London Overground Operations,Concession,West,Active,2026-03-07
+O001,Transport for London,Public,Central,Active,2026-03-10
+O002,Docklands Light Railway Ltd,Public-Private,West,Active,2026-03-08
+O003,Arriva Rail London,Concession,West,Active,2026-03-08
+O004,Abellio Bus London,Private,Central,Active,2026-03-08
+O005,Go-Ahead London,Private,South,Active,2026-03-04
+O006, Metroline ,Private,North,Active,2026-03-07
+O007,Stagecoach London,Private,East,Active,2026-03-01
+O008,London Overground Operations,Concession,South,Active,2026-03-09
+O001,Transport for London,Public,South,Active,2026-03-10
+O002,Docklands Light Railway Ltd,Public-Private,North,Review,2026-03-11
+O003,Arriva Rail London,Concession,West,Active,2026-03-09
+O004,Abellio Bus London,Private,North,Review,2026-03-06
+O005,Go-Ahead London,Private,South,Review,2026-03-08
+O006,Metroline,Private,Central,Active,2026-03-08
+O007,Stagecoach London,Private,Central,Active,2026-03-04
+O008,London Overground Operations,Concession,North,Active,2026-03-10
+O001,Transport for London,Public,Central,Active,2026-03-07
+O002,Docklands Light Railway Ltd,Public-Private,Multi-region,Active,2026-03-08
+O003,Arriva Rail London,Concession,East,Active,2026-03-10
+O004,Abellio Bus London,Private,East,Active,2026-03-04
+O005, Go-Ahead London ,Private,West,Active,2026-03-03
+O006,Metroline,Private,Central,Active,2026-03-01
+O007,Stagecoach London,Private,North,Review,2026-03-10
+O008,London Overground Operations,Concession,Multi-region,Active,2026-03-11
+O001,Transport for London,Public,Central,Active,2026-03-08
+O002,Docklands Light Railway Ltd,Public-Private,East,Review,2026-03-03
+O003,Arriva Rail London,Concession,East,Active,2026-03-10
+O004,Abellio Bus London,Private,North,Active,2026-03-03
+O005,Go-Ahead London,Private,South,Review,2026-03-10
+O006,Metroline,Private,North,Review,2026-03-07
+O007,Stagecoach London,Private,Central,Active,2026-03-09
+O008,London Overground Operations,Concession,West,Review,2026-03-03
+O001,Transport for London,Public,North,Review,2026-03-10
+O002,Docklands Light Railway Ltd,Public-Private,West,Active,2026-03-02
+O003,Arriva Rail London,Concession,North,Active,2026-03-11
+O004,Abellio Bus London,Private,West,Review,2026-03-06
